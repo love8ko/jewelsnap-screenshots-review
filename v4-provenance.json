@@ -1,0 +1,29 @@
+{
+  "version": "v4-2026-09-10.1",
+  "visuals": "Eight distinct generated decorative studio scenes. They do not establish properties of analyzed pieces. No app UI or text was generated.",
+  "native_screens": "Existing JewelSnap screens with illustrative example data. Brooch identification uses a separate simulator capture of ResultView, with existing visible-feature observations and no invented value.",
+  "estimate": {
+    "piece": "Chain bracelet · Example",
+    "low": 200,
+    "high": 450,
+    "currency": "USD",
+    "source": "Existing FirstWinPreview fixture; not a live appraisal"
+  },
+  "buyer_chat": {
+    "question": "What should I ask the seller?",
+    "answer": "Ask the seller:\n• What material is claimed, and what existing records or tests support it?\n• What weight is documented, and does it include stones or other parts?\n• Are there clear photos of the existing marks, fastening or setting, and any known repairs?",
+    "excerpt": "What material is claimed, and what existing records or tests support it?",
+    "source": "ExpertSafeReplies.catalog.en.seller_questions",
+    "type": "Existing app-owned response shown in native AIChatView; illustrative conversation"
+  },
+  "photo_chat": {
+    "question": "How should I photograph the clasp?",
+    "answer": "Take a close photo of the clasp in soft, even light against a plain background. Keep the phone steady and tap the clasp to focus. Include the neighboring links so their connection is visible.",
+    "excerpt": "Take a close photo of the clasp in soft, even light against a plain background.",
+    "source": "ExpertPrompts.swift / ExpertSafeReplies.catalog.en.photo_help",
+    "type": "Existing app-owned answer, captured in native AIChatView; not a new provider request"
+  },
+  "collection": "One saved illustrative bracelet. The card shows its existing upper estimate, not total collection value.",
+  "story": "Existing example note: Ask Grandma when she first wore this ring. No provenance inferred from the image.",
+  "decorative_hardware": "Generated clasp closeups in V03 and V05 are illustrative studio props, not new scan evidence."
+}

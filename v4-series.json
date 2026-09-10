@@ -1,0 +1,72 @@
+{
+  "version": "v4-2026-09-10.1",
+  "revision": "final",
+  "width": 1320,
+  "height": 2868,
+  "frames": [
+    {
+      "id": "V01",
+      "title": "What’s It<br><em>Worth?</em>",
+      "headline": "What’s It Worth?",
+      "subtitle": "AI Jewelry Estimate",
+      "screen": "value",
+      "sha256": "c072c19713b7633078952feaf5490990590e1b0579cdb31643259d64da31812d"
+    },
+    {
+      "id": "V02",
+      "title": "Snap. Identify.<br><em>Know.</em>",
+      "headline": "Snap. Identify. Know.",
+      "subtitle": "Scan jewelry with AI",
+      "screen": "identify",
+      "sha256": "faa01f0641f2787db4234914811ff69efe51db6f4c48757320d100d953c9c462"
+    },
+    {
+      "id": "V03",
+      "title": "Before<br><em>You Buy</em>",
+      "headline": "Before You Buy",
+      "subtitle": "Know what to check",
+      "screen": "buy",
+      "sha256": "75a199f08d005cfef9e3cdffef9182396c16f8ca98583b5c3c02bf290b9de105"
+    },
+    {
+      "id": "V04",
+      "title": "Take a<br><em>Closer Look</em>",
+      "headline": "Take a Closer Look",
+      "subtitle": "Explore visible details",
+      "screen": "check",
+      "sha256": "82e1db86400a1cd52b9f1ab50dda8b4b1ff0a8d8e20be623b34adfa077eec926"
+    },
+    {
+      "id": "V05",
+      "title": "Ask Your<br><em>Jewelry Guide</em>",
+      "headline": "Ask Your Jewelry Guide",
+      "subtitle": "Michael, your AI guide",
+      "screen": "expert-large",
+      "sha256": "52983c5bb7f715f514bf7e1bf712346138d6777a9e814a49b4596410c04bee98"
+    },
+    {
+      "id": "V06",
+      "title": "Your Collection.<br><em>One Place.</em>",
+      "headline": "Your Collection. One Place.",
+      "subtitle": "Save your pieces",
+      "screen": "collection",
+      "sha256": "0502c5bc09813f4b63d5efeb4ffb6c944d2d6f1e430e79f32f2512d39968650f"
+    },
+    {
+      "id": "V07",
+      "title": "Keep<br><em>Its Story</em>",
+      "headline": "Keep Its Story",
+      "subtitle": "A photo. A memory.",
+      "screen": "story",
+      "sha256": "3b0e07e8eeb188f47e26d330cb5bc533bc6bf6a79b6b9245f313d8db33699e0d"
+    },
+    {
+      "id": "V08",
+      "title": "Scan Your<br><em>Next Find</em>",
+      "headline": "Scan Your Next Find",
+      "subtitle": "Rings, bracelets, earrings",
+      "screen": "variety",
+      "sha256": "799004ee46530693c92d5991188d0afb81ab714e527fb205c2193bbf594dfe7c"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "version": "v4-2026-09-10.1",
+  "version": "v4-2026-09-10.2",
   "revision": "final",
   "width": 1320,
   "height": 2868,
@@ -26,7 +26,7 @@
       "headline": "Before You Buy",
       "subtitle": "Know what to check",
       "screen": "buy",
-      "sha256": "75a199f08d005cfef9e3cdffef9182396c16f8ca98583b5c3c02bf290b9de105"
+      "sha256": "44086e49157456423ffbccda2133852cb1ea39f9e2c9a9a559aca305e56e613b"
     },
     {
       "id": "V04",
@@ -58,7 +58,7 @@
       "headline": "Keep Its Story",
       "subtitle": "A photo. A memory.",
       "screen": "story",
-      "sha256": "3b0e07e8eeb188f47e26d330cb5bc533bc6bf6a79b6b9245f313d8db33699e0d"
+      "sha256": "d9f29015d15afd16790824a581ca1e3581573bac95db227d7a07d2f6f9f32e46"
     },
     {
       "id": "V08",

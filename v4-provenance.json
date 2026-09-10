@@ -1,5 +1,5 @@
 {
-  "version": "v4-2026-09-10.1",
+  "version": "v4-2026-09-10.2",
   "visuals": "Eight distinct generated decorative studio scenes. They do not establish properties of analyzed pieces. No app UI or text was generated.",
   "native_screens": "Existing JewelSnap screens with illustrative example data. Brooch identification uses a separate simulator capture of ResultView, with existing visible-feature observations and no invented value.",
   "estimate": {
@@ -24,6 +24,7 @@
     "type": "Existing app-owned answer, captured in native AIChatView; not a new provider request"
   },
   "collection": "One saved illustrative bracelet. The card shows its existing upper estimate, not total collection value.",
-  "story": "Existing example note: Ask Grandma when she first wore this ring. No provenance inferred from the image.",
-  "decorative_hardware": "Generated clasp closeups in V03 and V05 are illustrative studio props, not new scan evidence."
+  "story": "Existing example note: Ask Grandma when she first wore this ring. The enlarged Save story button was replaced with A family keepsake. No provenance inferred from the image.",
+  "decorative_hardware": "Generated clasp closeups in V03 and V05 are illustrative studio props, not new scan evidence.",
+  "expert_illustration": "V03 depicts a fictional generated jewelry specialist inspecting a bracelet with a loupe. Decorative illustration, not a real JewelSnap employee, certification, endorsement or human consultation. The enlarged answer is explicitly labelled AI guide."
 }

@@ -1,0 +1,14 @@
+{
+  "version": "mix-localization-pilot-2026-09-10.1",
+  "rows": [
+    { "tag": "EN", "name": "English M · master", "frames": [
+      { "id": "M01", "preview": "previews/M01.jpg", "original": "originals/M01.png" }, { "id": "M02", "preview": "previews/M02.jpg", "original": "originals/M02.png" }, { "id": "M03", "preview": "previews/M03.jpg", "original": "originals/M03.png" }, { "id": "M04", "preview": "previews/M04.jpg", "original": "originals/M04.png" }, { "id": "M05", "preview": "previews/M05.jpg", "original": "originals/M05.png" }, { "id": "M06", "preview": "previews/M06.jpg", "original": "originals/M06.png" }, { "id": "M07", "preview": "previews/M07.jpg", "original": "originals/M07.png" }, { "id": "M08", "preview": "previews/M08.jpg", "original": "originals/M08.png" }
+    ]},
+    { "tag": "RU", "name": "Русский · пилот", "frames": [
+      { "id": "RU01", "preview": "localized-pilot/ru/previews/01_M01.jpg", "original": "localized-pilot/ru/01_M01.png" }, { "id": "RU02", "preview": "localized-pilot/ru/previews/02_M02.jpg", "original": "localized-pilot/ru/02_M02.png" }, { "id": "RU03", "preview": "localized-pilot/ru/previews/03_M03.jpg", "original": "localized-pilot/ru/03_M03.png" }, { "id": "RU04", "preview": "localized-pilot/ru/previews/04_M04.jpg", "original": "localized-pilot/ru/04_M04.png" }, { "id": "RU05", "preview": "localized-pilot/ru/previews/05_M05.jpg", "original": "localized-pilot/ru/05_M05.png" }, { "id": "RU06", "preview": "localized-pilot/ru/previews/06_M06.jpg", "original": "localized-pilot/ru/06_M06.png" }, { "id": "RU07", "preview": "localized-pilot/ru/previews/07_M07.jpg", "original": "localized-pilot/ru/07_M07.png" }, { "id": "RU08", "preview": "localized-pilot/ru/previews/08_M08.jpg", "original": "localized-pilot/ru/08_M08.png" }
+    ]},
+    { "tag": "DE", "name": "Deutsch · Pilot", "frames": [
+      { "id": "DE01", "preview": "localized-pilot/de-DE/previews/01_M01.jpg", "original": "localized-pilot/de-DE/01_M01.png" }, { "id": "DE02", "preview": "localized-pilot/de-DE/previews/02_M02.jpg", "original": "localized-pilot/de-DE/02_M02.png" }, { "id": "DE03", "preview": "localized-pilot/de-DE/previews/03_M03.jpg", "original": "localized-pilot/de-DE/03_M03.png" }, { "id": "DE04", "preview": "localized-pilot/de-DE/previews/04_M04.jpg", "original": "localized-pilot/de-DE/04_M04.png" }, { "id": "DE05", "preview": "localized-pilot/de-DE/previews/05_M05.jpg", "original": "localized-pilot/de-DE/05_M05.png" }, { "id": "DE06", "preview": "localized-pilot/de-DE/previews/06_M06.jpg", "original": "localized-pilot/de-DE/06_M06.png" }, { "id": "DE07", "preview": "localized-pilot/de-DE/previews/07_M07.jpg", "original": "localized-pilot/de-DE/07_M07.png" }, { "id": "DE08", "preview": "localized-pilot/de-DE/previews/08_M08.jpg", "original": "localized-pilot/de-DE/08_M08.png" }
+    ]}
+  ]
+}

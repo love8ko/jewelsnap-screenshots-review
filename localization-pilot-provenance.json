@@ -1,0 +1,13 @@
+{
+  "version": "mix-localization-pilot-2026-09-10.1",
+  "master": "mix-2026-09-10.1",
+  "locales": ["ru", "de-DE"],
+  "scope": "Marketing overlay only; the genuine application UI inside the phone remains English.",
+  "production": "Deterministic HTML/CSS composition over the approved M scenes and native UI captures. No new generated backgrounds.",
+  "terminology": {
+    "ru": "AI",
+    "de-DE": "KI"
+  },
+  "claims": "No trial, free offer, authenticity guarantee, sale record, material confirmation or new product promise was added.",
+  "approval": "Pilot review only. Nothing has been uploaded to App Store Connect."
+}

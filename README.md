@@ -10,3 +10,5 @@ Originals: 1320 × 2868. comparison-mix.png compares M/N/V first trios. Previous
 mix-provenance.json contains copy and source information. Decorative generated scenes are not analysis evidence or a promise of human consultation. The AI guide is explicitly labelled.
 
 This public repository contains static review materials only. App Store screenshots are unchanged.
+
+`localization-pilot.html` compares the English M master with Russian and German pilot renders. The application UI inside the phone intentionally remains English.

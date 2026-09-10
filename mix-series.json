@@ -1,0 +1,64 @@
+{
+  "version": "mix-2026-09-10.1",
+  "revision": "final",
+  "width": 1320,
+  "height": 2868,
+  "frames": [
+    {
+      "id": "M01",
+      "headline": "How Much Is It Worth?",
+      "subtitle": "Get an AI estimate from a photo.",
+      "screen": "value",
+      "sha256": "6ed36b87d43a75f856e4e129bc87fa2dc453769d0be4646845861cae92dc3431"
+    },
+    {
+      "id": "M02",
+      "headline": "Discover Its Design & Details",
+      "subtitle": "Explore visible features and what they mean.",
+      "screen": "identify",
+      "sha256": "331968e99b308f186d59c859b0ee97b8cdac2c2dab4ab1f8d4f7d007e9b05e4b"
+    },
+    {
+      "id": "M03",
+      "headline": "Ask About Your Jewelry",
+      "subtitle": "Your AI jewelry guide",
+      "screen": "expert-large",
+      "sha256": "0d002e64f5c43f2bb81cfd01fe17bb866617e9a333ece005aaf7537c6ce302ec"
+    },
+    {
+      "id": "M04",
+      "headline": "Know What to Check",
+      "subtitle": "Find useful details to investigate.",
+      "screen": "check",
+      "sha256": "e3b20536053d2a736509fcfc3e657d4b634b30a82d714074bd8a5f4de49f1c4a"
+    },
+    {
+      "id": "M05",
+      "headline": "Your Jewelry, Together",
+      "subtitle": "Keep your pieces and findings in one place.",
+      "screen": "collection",
+      "sha256": "078f3e324b305686b472563b2016cccc4b7508117d28b10ed34418c79856a307"
+    },
+    {
+      "id": "M06",
+      "headline": "Keep Its Story",
+      "subtitle": "A photo. A name. A memory.",
+      "screen": "story",
+      "sha256": "3534d30b11bc315e091748b420aca1784693e70b2e26e8b7ab77b2fad571374a"
+    },
+    {
+      "id": "M07",
+      "headline": "Take a Closer Look",
+      "subtitle": "Add photos to refine your findings.",
+      "screen": "closer",
+      "sha256": "dad1d5b89eafdba50743dc95ab39d05dab19c26ab1e3f7cbda2feb67b8a24b76"
+    },
+    {
+      "id": "M08",
+      "headline": "Rings, Bracelets & More",
+      "subtitle": "Start with a piece of your own.",
+      "screen": "variety",
+      "sha256": "3f585c7fdd539f037d4ec4435c2ca41b2811fbdbe81fb56c0f93b8ef7c96fda7"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": "mix-2026-09-10.1",
+  "brief": "Valera feedback: use N sequence and warmer look; enlarge all eight benefit lines in contrasting badges; mix useful V proof accents and fictional loupe specialist.",
+  "copy_source": "User feedback on N01–N08; AI spelling normalized from Al.",
+  "visuals": "Eight new generated decorative warm studio backgrounds. Text and native UI composited separately. No imagery establishes material, brand, authenticity, provenance or current value.",
+  "native_sources": "Existing native screenshots from previous review; no app code or live App Store assets changed.",
+  "estimate": {
+    "piece": "Chain bracelet · Example",
+    "low": 200,
+    "high": 450,
+    "currency": "USD",
+    "source": "Existing FirstWinPreview fixture; not a live appraisal"
+  },
+  "photo_chat": {
+    "question": "How should I photograph the clasp?",
+    "answer": "Take a close photo of the clasp in soft, even light against a plain background. Keep the phone steady and tap the clasp to focus. Include the neighboring links so their connection is visible.",
+    "excerpt": "Take a close photo of the clasp in soft, even light against a plain background.",
+    "source": "ExpertPrompts.swift / ExpertSafeReplies.catalog.en.photo_help",
+    "type": "Existing app-owned answer, captured in native AIChatView; not a new provider request"
+  },
+  "expert_illustration": "M03 depicts a fictional generated jewelry specialist inspecting a bracelet with a loupe. Decorative illustration, not a real JewelSnap employee, certification, endorsement or human consultation. The enlarged answer is explicitly labelled AI guide.",
+  "observations": "M02 Open metalwork is an existing illustrative visible-feature observation, not a verified identification. M04 Look inside the band is an existing app prompt.",
+  "collection": "One saved illustrative bracelet. The card shows its existing upper estimate, not total collection value.",
+  "story": "Existing example note: Ask Grandma when she first wore this ring. The enlarged Save story button was replaced with A family keepsake. No provenance inferred from the image.",
+  "refinement": "M07 uses the existing native Ring Example refinement screen and its actual Add Photo button.",
+  "copy": [
+    {
+      "id": "M01",
+      "subtitle": "Get an AI estimate from a photo."
+    },
+    {
+      "id": "M02",
+      "subtitle": "Explore visible features and what they mean."
+    },
+    {
+      "id": "M03",
+      "subtitle": "Your AI jewelry guide"
+    },
+    {
+      "id": "M04",
+      "subtitle": "Find useful details to investigate."
+    },
+    {
+      "id": "M05",
+      "subtitle": "Keep your pieces and findings in one place."
+    },
+    {
+      "id": "M06",
+      "subtitle": "A photo. A name. A memory."
+    },
+    {
+      "id": "M07",
+      "subtitle": "Add photos to refine your findings."
+    },
+    {
+      "id": "M08",
+      "subtitle": "Start with a piece of your own."
+    }
+  ]
+}
